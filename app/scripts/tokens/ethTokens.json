@@ -306,6 +306,12 @@
     "type":"default"
   },
   {
+    "address":"0xf7e983781609012307f2514f63D526D83D24F466",
+    "symbol":"MYD",
+    "decimal":16,
+    "type":"default"
+  },
+  {
     "address":"0xa645264C5603E96c3b0B078cdab68733794B0A71",
     "symbol":"MYST",
     "decimal":8,
